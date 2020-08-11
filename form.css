@@ -1,0 +1,57 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    background:white
+  }
+  nav{
+        background:blue;
+        padding: 25px;
+        text-align: center;
+  }
+  nav p{
+    color: red;
+    opacity: 1;
+    font-weight: bold;
+    font-size: 30px
+  }
+  #form-heading{
+    margin-bottom: 40px;
+  }
+  
+  form{
+    width: 500px;
+    padding: 30px 50px;
+    margin: auto;
+    background: #ececec;
+    margin-top: 40px;
+  
+    }
+    input{
+      width: 100%;
+      margin: 10px 0 15px 0;
+      padding: 10px 5px;
+      border: 0;
+    }
+  
+  
+  
+  
+    button{
+      width: 100%;
+      padding: 10px;
+      background: blue;
+      color: red;
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 10px;
+      box-shadow: 0 10px 6px -6px #777;
+      border: 0px;
+      cursor: not-allowed;
+  
+  
+    }
