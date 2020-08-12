@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    background: #ececec;
+  }
+  
+  #nav {
+    background: rgb(59, 89, 152);
+    height: 80px;
+    width: 100%;
+  }
+  #nav-div1{
+    width:55% ;
+    height: 50px;
+    float: left;
+  }
+  
+  #nav-div2{
+    float: right;
+    padding-right: 180PX;
+    padding-top: 10px;
+    color: white;
+  
+  
+    
+  }
+  #facebook{
+    color: white;
+    font-size: 43px;
+    font-weight: bold;
+    padding-left: 200px;
+    padding-top: 20px;
+  }
+  .nav-input{
+    margin-left: 10px;
+    width: 150px;
+    height: 20px;
+    border: 1px solid black;
+  
+  }
+  
+  
+  .log-in{
+    background-color: rgb(19, 55, 131);
+    color: white;
+    padding: 3px 5px;
+    border: 1PX solid white;
+    margin-left:10px ;
+  
+  } 
+  
+  .nav-label{
+    margin-left: 10px;
+  }
+  
+  .forget{
+    margin-left: 10px;
+    color: white;
+  }
+  
+  
+  
+  
+  #containers{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  #container1{
+    width: 62%;
+    padding-left: 200px;
+    padding-top: 50px;
+  }
+  
+  h3{
+    color:rgb(19, 55, 131);
+    font-size: 20px;
+  }
+  
+  #container2{
+    padding-left: 100px;
+  }
+  
+  h1{
+    padding: 30px 30px 10px 0;
+    font-size: 50px;
+  }
+  
+  p{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 25px;
+  }
+  
+  .input-column{
+    width: 30%;
+    margin-right: 9px;
+    margin-bottom: 11px;
+    padding: 8px;
+    border: 1px solid #95a5a6;
+    placeholder: 50px;
+    border-radius: 5px;
+  }
+  
+  .input-row{
+    width: 62%;
+    margin-bottom: 11px;
+    padding: 8px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    border: 1px solid #95a5a6;
+  }
+  
+  .h4-heading{
+    margin: 4px 0;
+    font-size: 25px;
+  }
+  select{
+    padding-left: 25px;
+  }
+  .radio{
+    width: 5%;
+  }
+  
+  .radio-p{
+    font-size: 30px;
+    display: inline;
+  
+  }
+  
+  .terms{
+    font-size: 13px;
+    padding-top: 10px;
+  }
+  
+  #sign-up{
+    background: rgb(105, 167, 78);
+    color: white;
+    padding: 10px 100px;
+    border: 2px solid;
+    border-radius: 6px;
+  }
